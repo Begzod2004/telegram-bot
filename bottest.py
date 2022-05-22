@@ -13,7 +13,6 @@ ny.title
 ny.url
 # u'http://en.wikipedia.org/wiki/New_York'
 ny.content
-# u'New York is a state in the Northeastern region of the United States. New York is the 27th-most exten'...
 ny.links[0]
 # u'1790 United States Census'
 
